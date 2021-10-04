@@ -4,6 +4,7 @@ import './Cart.css'
 const Cart = (props) => {
     const {img,language,price}=props.cart|| {}
     return (
+        // All section of courses in service route:
 <div className="cart-container" >
 
             <div className="cart-img">

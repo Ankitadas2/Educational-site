@@ -14,8 +14,21 @@
 font-size: 30px;
   }
   .text{
-      color:darkcyan;
-      font-size: 25px;
+      color:lightskyblue;
+      font-size: 35px;
       
+  }
+  .nav-item a{
+    color:orange;
+    border:1px solid orangered;
+    border-radius: 10px;
+    background-color: papayawhip;
+    margin-bottom: 30px;
+    font-size: 20px;
+    padding: 8px 5px;
+  }
+  .nav-item a:hover{
+    color: silver;
+
   }
   

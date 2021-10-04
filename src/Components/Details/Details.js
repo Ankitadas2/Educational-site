@@ -5,7 +5,8 @@ import './Details.css'
 const Details = (props) => {
     const {language,price,img}=props.details|| {}
     return (
-        <div className="">
+        <div>
+          {/* All card section where see all courses dynamically in home page */}
               <CardGroup>
   <Card >
   <img className="w-100" src={img} alt="" />

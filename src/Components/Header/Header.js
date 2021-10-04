@@ -5,13 +5,9 @@ import './Header.css';
 const Header = () => {
     return (
         <div>
-          
-            <nav class="navbar navbar-expand-lg navbar-primary bg-light w-100">
+          {/* This is header navigation section */}
+            <nav class="navbar navbar-expand-lg navbar-primary bg-dark  w-100">
           <div class="container-fluid ">
-            {/* <NavLink className="navbar-brand" to="/">
-           
-            </NavLink> */}
-
             <div></div>
             <button
               class="navbar-toggler"

@@ -5,26 +5,27 @@ import './Footer.css';
 const Footer = () => {
     return (
         <div>
+            {/* All footer informations */}
             <footer className="footer">
             <div className="container">
                 <div className="row">
                     <div className="footer-col">
                     <h4>Employee</h4>
                     <ul>
-                        <li><Link>About us </Link></li>
-                         <li><Link>Privacy</Link></li>
-                        <li><Link>Privacy</Link></li>
-                        <li><Link>Courses</Link></li>
+                        <li><Link to="/about">About us </Link></li>
+                         <li><Link to="/home">Privacy</Link></li>
+                        <li><Link to="/">Contact</Link></li>
+                        <li><Link to="/service">Courses</Link></li>
                        
                     </ul>
                     </div>
                     <div className="footer-col">
                     <h4>Details</h4>
                     <ul>
-                        <li><Link>Paymenta </Link></li>
-                        <li><Link>Admissiona </Link></li>
-                        <li><Link>Faqa </Link></li>
-                        <li><Link>Guidlinesa </Link> </li>
+                        <li><Link>Payment </Link></li>
+                        <li><Link>Admission </Link></li>
+                        <li><Link>Faq </Link></li>
+                        <li><Link>Guidlines </Link> </li>
                     </ul>
                     </div>
                     <div className="footer-col">
@@ -35,7 +36,8 @@ const Footer = () => {
                     </div>
                     <div className="footer-col">
                     <h4>Follow us</h4>
-                    <div className="social-as">
+                    {/* All social links part */}
+                    <div className="social-links">
                     
                         <Link><i class="bi bi-facebook fs-2 text-warning rounded bg-light me-4 mt-4"></i></Link>
                        <Link><i class="bi bi-instagram fs-2 text-warning rounded bg-light me-4 mt-4"></i></Link>
