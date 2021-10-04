@@ -1,0 +1,22 @@
+[
+    {
+      "language": "English",
+      "price": 450,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUtE0tr6KVRZxdSATc1010cpq2neuAZs6JQ&usqp=CAU"
+    },
+    {
+      "language": "German",
+      "price": 250,
+      "img": "https://image.shutterstock.com/image-photo/learning-european-language-smart-child-260nw-1808604004.jpg"
+    },
+    {
+      "language": "Spanish",
+      "price": 490,
+      "img": "https://image.shutterstock.com/image-photo/happy-smiling-arab-indian-girl-260nw-1958115715.jpg"
+    },
+    {
+      "language": "Korean",
+      "price": 280,
+      "img": "https://thumbs.dreamstime.com/b/korean-schoolgirl-raising-hand-sitting-laptop-computer-studio-distant-school-learning-online-lesson-yellow-193947056.jpg"
+    }
+]

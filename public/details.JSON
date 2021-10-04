@@ -1,0 +1,47 @@
+[
+    {
+      "language": "English",
+      "price": 450,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUtE0tr6KVRZxdSATc1010cpq2neuAZs6JQ&usqp=CAU"
+    },
+    {
+      "language": "German",
+      "price": 250,
+      "img": "https://image.shutterstock.com/image-photo/learning-european-language-smart-child-260nw-1808604004.jpg"
+    },
+    {
+      "language": "Spanish",
+      "price": 490,
+      "img": "https://image.shutterstock.com/image-photo/happy-smiling-arab-indian-girl-260nw-1958115715.jpg"
+    },
+    {
+      "language": "Korean",
+      "price": 280,
+      "img": "https://thumbs.dreamstime.com/b/korean-schoolgirl-raising-hand-sitting-laptop-computer-studio-distant-school-learning-online-lesson-yellow-193947056.jpg"
+    },
+    {
+      "language": "Itali",
+      "price": 240,
+      "img": "https://image.shutterstock.com/image-photo/young-beautiful-smiling-woman-sitting-260nw-1275292600.jpg"
+    },
+    {
+      "language": "French",
+      "price": 150,
+      "img": "https://st2.depositphotos.com/1018611/11767/i/600/depositphotos_117674122-stock-photo-boy-learning-french-sitting-at.jpg"
+    },
+    {
+      "language": "Chinese",
+      "price": 190,
+      "img": "https://img.freepik.com/free-photo/asian-girl-student-online-learning-class-study-online-with-laptop-home_29488-1619.jpg?size=626&ext=jpg"
+    },
+    {
+      "language": "Turkish",
+      "price": 470,
+      "img": "https://thumbs.dreamstime.com/b/cute-smiling-brunette-girl-student-book-against-turkish-flag-background-study-turkey-cute-smiling-brunette-girl-student-152556834.jpg"
+    },
+    {
+      "language": "Japanese",
+      "price": 390,
+      "img": "https://image.freepik.com/free-photo/happy-asian-girl-learning-online-home_1421-4313.jpg"
+    }
+  ]

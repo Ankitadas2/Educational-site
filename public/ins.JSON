@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Danny",
+      "Language": "Manager",
+      "img":"https://www.elgazette.com/wp-content/uploads/2019/09/Page-14-Image-1-696x666.jpg",
+      "para": "He is a manager of our institute.He is very loyal"
+    },
+    {
+      "name": "Kimberly",
+      "Language": "Italian",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOXN3OYr8Bi4F8bVYyMKXhUmYjVjZ44hkjA&usqp=CAU",
+      "para": "she is a language teacher of our institute.she is very loyal"
+    },
+    {
+      "name": "Harry",
+      "Language": "Germany",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-FqC3ZnWvry0QFRMhMhkI_kmTVPp2XE8JQ&usqp=CAU",
+      "para": "He is a german language of our institute.He is very loyal"
+    },
+    {
+      "name": "Josephine",
+      "Language": "British",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_gIBCd3peB9m7tTO8bKuihcX_9Q0q9Ox7DnZU01nm9b9S2LmS_G7BrjtILJoPe4H2yY0&usqp=CAU",
+      "para": "She is a british language of our institute.She is very loyal"
+    },
+    {
+      "name": "Neylon",
+      "Language": "Japanese",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeOL0YR8Qeo0SvbnfoRm5TQ9LDNOkmGHvouA&usqp=CAU",
+      "para": "He is a japanese language of our institute.He is very loyal"
+    }
+  ]
